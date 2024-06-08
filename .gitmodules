@@ -1,0 +1,3 @@
+[submodule "EKGal-Text2Speech"]
+	path = EKGal-Text2Speech
+	url = https://github.com/enki-gals/EKGal-Text2Speech.git
